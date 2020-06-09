@@ -1,8 +1,8 @@
-![](https://github.com/Barbaris2/-sandbox-React-Hooks/blob/master/src/images/React-Hook.png)
+![](https://github.com/Barbaris2/-HTML-SASS-devConnector/blob/master/images/DevConnector.png)
 
-# [sandbox] React Hooks
+# -HTML-SASS-devConnector
 
-Моя _песочница_ для понимания работы **React Hooks**. Функционал каждого хука рассмотрен по отдельности, а так же разобрано использование хуков на реальных примерах.
+HTML-страницы со стилями написаные при
 
 ### Быстрый старт
 
